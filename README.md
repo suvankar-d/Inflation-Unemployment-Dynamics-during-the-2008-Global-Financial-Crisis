@@ -113,7 +113,6 @@ The original project materials refer to a raw Excel dataset named:
 
 `PHILLIPS CURVE DATA.xlsx`
 
-The raw Excel dataset was not included with the supplied project files.
 
 ## Conclusion
 
