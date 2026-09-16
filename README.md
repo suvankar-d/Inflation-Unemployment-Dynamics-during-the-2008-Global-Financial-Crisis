@@ -109,7 +109,7 @@ The `outputs/` folder contains the regression output for:
 
 ## Data
 
-The original project materials refer to a raw Excel dataset named:
+The project refers to a raw Excel dataset named:
 
 `PHILLIPS CURVE DATA.xlsx`
 
