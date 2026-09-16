@@ -1,1 +1,0 @@
-This package is only for the Macro project: Inflation-Unemployment Dynamics during the 2008 Global Financial Crisis, comparing the United States and Germany. It is separate from the CBDC and Ecotrix II projects.
